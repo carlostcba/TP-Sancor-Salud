@@ -2,7 +2,7 @@
 
 ## Rol de Sistemas dentro de la Organización
 
-Sistemas de Información en Sancor Salud actualmente ocupa un rol de **acompañamiento y ejecución**, con la visión de transformarse en un **socio estratégico** del negocio. 
+Sistemas de Información en Sancor Salud actualmente ocupa un rol de **acompañamiento y ejecución**, con la visión de transformarse en un **socio estratégico** del negocio. Este rol está alineado con la evolución que han tenido los sistemas de información empresariales, que han pasado de ser herramientas operativas a convertirse en facilitadores de la estrategia organizacional y generadores de ventaja competitiva.
 
 ### Funciones Actuales
 
@@ -55,6 +55,17 @@ El área de Sistemas en Sancor Salud ha evolucionado en los últimos años desde
 - Aumento de sofisticación en ciberataques
 - Expectativas crecientes de los usuarios en experiencia digital
 
+## Transición hacia un Rol Estratégico
+
+Para que Sistemas de Información en Sancor Salud evolucione hacia un rol de socio estratégico, es necesario enfocarse en cómo la tecnología puede transformar los procesos de negocio y crear valor para la organización. Esta transición requiere:
+
+1. **Alineación estratégica**: Vincular las iniciativas de TI con los objetivos estratégicos de la empresa
+2. **Gestión de valor**: Demostrar el impacto de las inversiones en TI en términos de valor para el negocio
+3. **Gestión de recursos**: Optimizar la infraestructura de TI y las capacidades del personal
+4. **Gestión de riesgos**: Abordar proactivamente los riesgos asociados con la implementación de tecnología
+
+Los proyectos propuestos en el Hito 3 están diseñados para catalizar esta transición, permitiendo que el área de sistemas se posicione como un agente de cambio y generador de valor.
+
 ## Organigrama de Sistemas (15 personas)
 
 ```
@@ -85,3 +96,5 @@ Gerente de Sistemas (1)
 | Tester | 1 |
 | Analista de Seguridad | 1 |
 | **Total** | **15** |
+
+Esta estructura refleja una organización típica para una empresa de este tamaño, con una clara división entre las funciones de infraestructura y desarrollo. Sin embargo, para afrontar los proyectos de transformación propuestos, será necesario complementar estas capacidades con roles especializados en análisis de datos, experiencia de usuario y gestión de proyectos digitales.
