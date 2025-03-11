@@ -24,7 +24,7 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 
 ### 1. Sistema de Monitoreo Cardiológico con Wearables
 
-<img src="./imagenes/proyecto_1.png" alt="Sistema de Monitoreo Cardiológico" width="650" />
+<img src="./docs/imagenes/proyecto_1.png" alt="Sistema de Monitoreo Cardiológico" width="650" />
 
 - Implementación de pulseras inteligentes para monitoreo de parámetros cardíacos (frecuencia, presión)
 - Integración con historia clínica electrónica
@@ -34,7 +34,7 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 
 ### 2. Portal Digital de Autogestión para Afiliados
 
-<img src="./imagenes/proyecto_2.png" alt="Portal Digital de Autogestión" width="650" />
+<img src="./docs/imagenes/proyecto_2.png" alt="Portal Digital de Autogestión" width="650" />
 
 - Portal web responsive y app móvil para autogestión
 - Funcionalidades: credencial digital, autorizaciones, reintegros, cartilla
@@ -44,7 +44,7 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 
 ### 3. Sistema de Análisis Predictivo para Gestión de Riesgos
 
-<img src="./imagenes/proyecto_3.png" alt="Sistema de Análisis Predictivo" width="650" />
+<img src="./docs/imagenes/proyecto_3.png" alt="Sistema de Análisis Predictivo" width="650" />
 
 - Implementación de modelos predictivos para identificar afiliados con riesgo
 - Intervención preventiva temprana
