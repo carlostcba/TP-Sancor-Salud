@@ -41,8 +41,12 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 
 ## Autores
 
-- [Tu nombre]
-- [Nombres de los integrantes del equipo]
+- TAMARA CABRAL
+- VANESA DALUICIS
+- WALTER DENIS GOMEZ
+- FERNANDO DANIEL OSABA
+- JULIETA SDRUBOLINI
+- CARLOS FACUNDO TELLO
 
 ## Licencia
 
