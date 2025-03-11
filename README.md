@@ -22,20 +22,33 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 
 ## Proyectos Propuestos
 
-1. **Sistema de Monitoreo Cardiológico con Wearables**
-   - Implementación de pulseras inteligentes para monitoreo de parámetros cardíacos (frecuencia, presión)
-   - Integración con historia clínica electrónica
-   - Detección temprana de riesgos cardiovasculares
+### 1. Sistema de Monitoreo Cardiológico con Wearables
 
-2. **Portal Digital de Autogestión para Afiliados**
-   - Portal web responsive y app móvil para autogestión
-   - Funcionalidades: credencial digital, autorizaciones, reintegros, cartilla
-   - Reducción de trámites presenciales y mejora de experiencia del afiliado
+<img src="./imagenes/proyecto_1.png" alt="Sistema de Monitoreo Cardiológico" width="650" />
 
-3. **Sistema de Análisis Predictivo para Gestión de Riesgos**
-   - Implementación de modelos predictivos para identificar afiliados con riesgo
-   - Intervención preventiva temprana
-   - Mejor asignación de recursos médicos
+- Implementación de pulseras inteligentes para monitoreo de parámetros cardíacos (frecuencia, presión)
+- Integración con historia clínica electrónica
+- Detección temprana de riesgos cardiovasculares
+
+---
+
+### 2. Portal Digital de Autogestión para Afiliados
+
+<img src="./imagenes/proyecto_2.png" alt="Portal Digital de Autogestión" width="650" />
+
+- Portal web responsive y app móvil para autogestión
+- Funcionalidades: credencial digital, autorizaciones, reintegros, cartilla
+- Reducción de trámites presenciales y mejora de experiencia del afiliado
+
+---
+
+### 3. Sistema de Análisis Predictivo para Gestión de Riesgos
+
+<img src="./imagenes/proyecto_3.png" alt="Sistema de Análisis Predictivo" width="650" />
+
+- Implementación de modelos predictivos para identificar afiliados con riesgo
+- Intervención preventiva temprana
+- Mejor asignación de recursos médicos
 
 ## Información del Curso
 
