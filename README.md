@@ -13,6 +13,12 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 - **[Hito 3: Proyectos Estratégicos](./hito3-markdown.md)** - Descripción detallada de los tres proyectos propuestos
 - **[Presupuesto Detallado](./presupuesto-markdown.md)** - Desglose de CAPEX/OPEX para cada proyecto
 - **[Cronograma de Implementación](./cronograma-markdown.md)** - Planificación temporal de los proyectos
+  
+## Guiones para Presentaciones
+
+- **[Guion Hito 1](presentaciones/presentacion-hito1.md)** - Guión para video de Drivers de Negocio (2 minutos)
+- **[Guion Hito 2](presentaciones/presentacion-hito2.md)** - Guión para video de Rol de Sistemas (2 minutos)
+- **[Guion Hito 3](presentaciones/presentacion-hito3.md)** - Guión para video de Proyectos Estratégicos (6 minutos)
 
 ## Proyectos Propuestos
 
