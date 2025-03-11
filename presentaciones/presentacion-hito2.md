@@ -1,10 +1,10 @@
 # Guión para Presentación Hito 2 (2 minutos)
 
-## Diapositiva 1: Título (5 segundos)
+## Diapositiva 1: Título (5 segundos) - FERNANDO DANIEL OSABA
 "Plan de Sistemas de Información - Sancor Salud"
 "Hito 2: Rol de Sistemas de Información"
 
-## Diapositiva 2: Rol Actual de Sistemas (45 segundos)
+## Diapositiva 2: Rol Actual de Sistemas (45 segundos) - FERNANDO DANIEL OSABA
 "El área de Sistemas de Información en Sancor Salud actualmente ocupa un rol de **acompañamiento y ejecución**, con aspiraciones de convertirse en un verdadero socio estratégico del negocio."
 
 "Sus funciones actuales incluyen:
@@ -15,7 +15,7 @@
 
 "Este rol se explica porque las iniciativas estratégicas suelen originarse en otras áreas, el presupuesto está más orientado al mantenimiento que a la innovación, y el CIO aún no participa regularmente en las decisiones estratégicas de alto nivel."
 
-## Diapositiva 3: FODA de Sistemas (45 segundos)
+## Diapositiva 3: FODA de Sistemas (45 segundos) - JULIETA SDRUBOLINI
 "El análisis FODA del área de Sistemas revela puntos críticos a considerar:"
 
 "Entre las fortalezas destacan un sistema de gestión de afiliados estable, un equipo técnico con buen conocimiento del negocio y una infraestructura de servidores robusta."
@@ -26,7 +26,7 @@
 
 "Las principales amenazas son las crecientes exigencias regulatorias en protección de datos médicos, la dificultad para reclutar talento tecnológico especializado y la obsolescencia tecnológica."
 
-## Diapositiva 4: Organigrama y Distribución (25 segundos)
+## Diapositiva 4: Organigrama y Distribución (25 segundos) - CARLOS FACUNDO TELLO
 "El área de Sistemas cuenta con 15 personas organizadas en tres unidades principales:"
 
 "Un equipo de Infraestructura con 6 personas, incluyendo especialistas y técnicos de soporte."
@@ -37,5 +37,5 @@
 
 "Esta estructura, si bien compacta, deberá afrontar los retos de los proyectos que presentaremos en el Hito 3."
 
-## Cierre (5 segundos)
+## Cierre (5 segundos) - CARLOS FACUNDO TELLO
 "Con este análisis del rol actual de Sistemas, pasamos a presentar los proyectos estratégicos que permitirán a esta área convertirse en un verdadero socio del negocio."
