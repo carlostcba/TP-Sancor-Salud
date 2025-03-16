@@ -6,7 +6,12 @@
 
 **Nombre:** Sancor Salud  
 **Sector:** Salud (Medicina Prepaga)  
-**Empleados:** 250 (15 en el área de sistemas)  
+**Empleados:** 250 (15 en el área de sistemas)
+
+### Presentación de la empresa
+
+SanCor Salud, es un grupo empresario de medicina prepaga de capital nacional. Se presenta como líder en calidad de servicio. Asume el compromiso de brindarle a la sociedad un servicio de salud diferencial que cuide a las familias argentinas en los momentos más importantes de sus vidas. 
+Cuenta con más de 300 puntos de atención en todo el país y una red de profesionales conformada por más de 200.000 prestadores, con 700.000 personas y más de 3.500 empresas clientes. 
 
 ### Misión
 
