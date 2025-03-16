@@ -59,9 +59,11 @@ Ser la prepaga líder en innovación y calidad asistencial, reconocida por su en
 - Presión para incluir nuevas coberturas sin aumentar precios
 - Riesgo de ciberataques y vulnerabilidades en datos sensibles
 
-## Contexto Organizacional
+## Contexto Organizacional y Estratégico
 
-**Contexto:** Expansión
+Sancor Salud opera en un contexto de **expansión**, buscando fortalecer su posición en el mercado a través de mayor cobertura geográfica y diferenciación mediante servicios digitales innovadores. La organización enfrenta el desafío de mantenerse competitiva en un entorno donde la tecnología se ha convertido en un elemento crítico para ofrecer servicios de salud eficientes y personalizados.
+
+La empresa necesita transformar sus procesos y sistemas de información para capitalizar las oportunidades del mercado y responder a las crecientes expectativas de sus afiliados, quienes demandan mayor agilidad, personalización y acceso digital. Los sistemas de información juegan un papel esencial para integrar los componentes de la cadena de valor, facilitar una respuesta ágil ante los cambios del entorno y generar información crítica para la toma de decisiones estratégicas.
 
 ## Organigrama General
 
@@ -88,3 +90,5 @@ Director General
 │
 └── Gerencia de Sistemas de Información
 ```
+
+Esta estructura organizacional refleja un modelo funcional donde la Gerencia de Sistemas de Información está posicionada al mismo nivel que las demás áreas clave, lo que facilita la integración de tecnología en los procesos de negocio y la comunicación horizontal entre departamentos. Este posicionamiento es fundamental para que el área de sistemas pueda contribuir significativamente a la estrategia organizacional y no limitarse a un rol meramente técnico o de soporte.
