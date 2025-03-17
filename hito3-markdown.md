@@ -20,7 +20,7 @@ El plan de sistemas de Sancor Salud tiene como objetivo principal transformar la
 | Duración | 5 meses de implementación + piloto de 6 meses |
 | Inversión | CAPEX: USD 68,000 / OPEX: USD 20,000 anual |
 
-<img src="./imagenes/proyecto_1.png" alt="Sistema de Monitoreo Cardiológico" width="650" />
+<img src="./docs/imagenes/proyecto_1.png" alt="Sistema de Monitoreo Cardiológico" width="650" />
 
 ### Situación Actual vs. Deseada
 
@@ -102,7 +102,7 @@ Mixto (proveedor de pulseras + desarrollo interno de la integración y app)
 | Duración | 7 meses |
 | Inversión | CAPEX: USD 53,500 / OPEX: USD 30,000 anual |
 
-<img src="./imagenes/proyecto_2.png" alt="Portal Digital de Autogestión" width="650" />
+<img src="./docs/imagenes/proyecto_2.png" alt="Portal Digital de Autogestión" width="650" />
 
 ### Situación Actual vs. Deseada
 
@@ -184,7 +184,7 @@ Principalmente in-house con consultores externos para diseño UX/UI
 | Duración | 6 meses |
 | Inversión | CAPEX: USD 44,000 / OPEX: USD 40,800 anual |
 
-<img src="./imagenes/proyecto_3.png" alt="Sistema de Análisis Predictivo" width="650" />
+<img src="./docs/imagenes/proyecto_3.png" alt="Sistema de Análisis Predictivo" width="650" />
 
 ### Situación Actual vs. Deseada
 
