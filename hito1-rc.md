@@ -239,6 +239,8 @@ Director General
 └── Gerencia de Sistemas de Información
 ```
 
+Esta estructura organizacional refleja un modelo funcional donde la Gerencia de Sistemas de Información está posicionada al mismo nivel que las demás áreas clave, lo que facilita la integración de tecnología en los procesos de negocio y la comunicación horizontal entre departamentos. Este posicionamiento es fundamental para que el área de sistemas pueda contribuir significativamente a la estrategia organizacional y no limitarse a un rol meramente técnico o de soporte.
+
 ```mermaid
 flowchart TD
     DG[Director General] --> GM[Gerencia Médica]
@@ -277,4 +279,15 @@ flowchart TD
     style SC fill:#34a853,stroke:#227733,color:white
     style SCO fill:#34a853,stroke:#227733,color:white
 ```
+
+### Conclusiones e implicaciones
+El análisis de los drivers de negocio de Sancor Salud revela una organización con potencial para transformarse digitalmente y capitalizar las oportunidades del mercado. Para lograrlo, es fundamental:
+
+- Reposicionar los sistemas de información como un activo estratégico y no meramente operativo
+- Alinear explícitamente la estrategia de TI con los objetivos de expansión de la empresa
+- Desarrollar capacidades digitales avanzadas centradas en la experiencia del afiliado
+- Implementar un modelo de gobierno de TI que balancee innovación y eficiencia operativa
+- Evolucionar hacia una arquitectura tecnológica basada en datos, APIs y servicios cloud
+
+En este contexto de transformación, el rol del CIO debe evolucionar desde un gestor de tecnología hacia un verdadero socio estratégico, que comprenda el negocio, las tendencias del sector y el potencial transformador de las tecnologías emergentes para contribuir a la ventaja competitiva sostenible de Sancor Salud.
 
