@@ -16,14 +16,16 @@ Con más de 300 puntos de atención distribuidos por todo el país, cuenta con u
 
 ### Análisis de la organización desde la perspectiva de sistemas
 
-Siguiendo el enfoque de Laudon & Laudon, podemos entender a Sancor Salud como una organización donde los sistemas de información son una parte integral, compuestos por elementos interrelacionados que colaboran para reunir, procesar, almacenar y distribuir información que apoya la toma de decisiones, la coordinación y el control dentro de la empresa.
+Desde una visión sistémica, podemos entender a Sancor Salud como una organización donde los sistemas de información constituyen una parte integral, conformados por elementos interrelacionados que colaboran para reunir, procesar, almacenar y distribuir información que apoya la toma de decisiones, la coordinación y el control dentro de la empresa.
 
-La organización tiene una estructura jerárquica bien definida con diferentes niveles y especialidades, lo que requiere sistemas de información que satisfagan las necesidades específicas de cada nivel organizacional:
+La organización presenta una estructura jerárquica bien definida con diferentes niveles y especialidades, lo que demanda sistemas de información específicos para cada capa organizacional:
 
-- **Nivel estratégico (Dirección General)**: Requiere sistemas para planificación a largo plazo
-- **Nivel administrativo (Gerencias)**: Necesita sistemas para monitoreo, control y toma de decisiones
-- **Nivel de conocimiento (Áreas médicas y técnicas)**: Precisa sistemas para integrar conocimiento médico y gestión del saber
-- **Nivel operativo (Atención al afiliado)**: Necesita sistemas para transacciones y procesos del día a día
+- **Nivel estratégico (Dirección General)**: Requiere sistemas para planificación a largo plazo, análisis de tendencias del sector salud y evaluación de escenarios competitivos.
+- **Nivel administrativo (Gerencias)**: Necesita sistemas para monitoreo, control y toma de decisiones tácticas, con dashboards e informes integrados de desempeño.
+- **Nivel de conocimiento (Áreas médicas y técnicas)**: Precisa sistemas para integrar conocimiento médico especializado, gestión de protocolos y evaluación de resultados clínicos.
+- **Nivel operativo (Atención al afiliado)**: Necesita sistemas transaccionales eficientes para gestionar autorizaciones, reintegros y atención diaria al afiliado.
+
+Estos distintos niveles deben estar interconectados para que la información fluya de manera coherente, permitiendo que las decisiones operativas estén alineadas con la estrategia, y que las decisiones estratégicas se basen en la realidad operacional de la organización.
 
 ### Misión
 
