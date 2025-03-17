@@ -83,6 +83,30 @@ Gerente de Sistemas (1)
 └── Analista de Seguridad Informática (1)
 ```
 
+```mermaid
+flowchart TD
+    GS["Gerente de Sistemas (1)"] --> CI["Coordinador de Infraestructura (1)"]
+    GS --> CD["Coordinador de Desarrollo (1)"]
+    GS --> ASI["Analista de Seguridad Informática (1)"]
+    
+    CI --> EI["Especialistas en Infraestructura (2)"]
+    CI --> TS["Técnicos de Soporte (3)"]
+    
+    CD --> AP["Analistas Programadores (3)"]
+    CD --> AF["Analistas Funcionales (2)"]
+    CD --> TT["Tester (1)"]
+    
+    classDef gerente fill:#4285F4,stroke:#2A56C6,color:white;
+    classDef coordinador fill:#34A853,stroke:#2E7D32,color:white;
+    classDef especialista fill:#FBBC05,stroke:#E8A203,color:black;
+    classDef analista fill:#EA4335,stroke:#C62A28,color:white;
+    
+    class GS gerente;
+    class CI,CD coordinador;
+    class EI,TS,AP,AF,TT especialista;
+    class ASI analista;
+```
+
 ### Distribución de Personal por Rol
 
 | Rol | Cantidad |
