@@ -96,4 +96,27 @@ Director General
 └── Gerencia de Sistemas de Información
 ```
 
+
+```mermaid
+flowchart TD
+    A[Director General] --> B[Gerencia Médica]
+    A --> C[Gerencia Comercial]
+    A --> D[Gerencia de Operaciones]
+    A --> E[Gerencia de Finanzas]
+    A --> F[Gerencia de RRHH]
+    A --> G[Gerencia de Sistemas de Información]
+    
+    B --> B1[Subg. Prestadores Médicos]
+    B --> B2[Subg. Auditoría Médica]
+    
+    C --> C1[Subg. Ventas]
+    C --> C2[Subg. Marketing]
+    
+    D --> D1[Subg. Atención al Afiliado]
+    D --> D2[Subg. Autorizaciones]
+    
+    E --> E1[Subg. Contabilidad]
+    E --> E2[Subg. Cobranzas]
+```
+
 Esta estructura organizacional refleja un modelo funcional donde la Gerencia de Sistemas de Información está posicionada al mismo nivel que las demás áreas clave, lo que facilita la integración de tecnología en los procesos de negocio y la comunicación horizontal entre departamentos. Este posicionamiento es fundamental para que el área de sistemas pueda contribuir significativamente a la estrategia organizacional y no limitarse a un rol meramente técnico o de soporte.
