@@ -99,24 +99,41 @@ Director General
 
 ```mermaid
 flowchart TD
-    A[Director General] --> B[Gerencia Médica]
-    A --> C[Gerencia Comercial]
-    A --> D[Gerencia de Operaciones]
-    A --> E[Gerencia de Finanzas]
-    A --> F[Gerencia de RRHH]
-    A --> G[Gerencia de Sistemas de Información]
+    DG[Director General] --> GM[Gerencia Médica]
+    DG --> GC[Gerencia Comercial]
+    DG --> GO[Gerencia de Operaciones]
+    DG --> GF[Gerencia de Finanzas]
+    DG --> GRRHH[Gerencia de Recursos Humanos]
+    DG --> GSI[Gerencia de Sistemas de Información]
     
-    B --> B1[Subg. Prestadores Médicos]
-    B --> B2[Subg. Auditoría Médica]
+    GM --> SPM[Subgerencia de Prestadores Médicos]
+    GM --> SAM[Subgerencia de Auditoría Médica]
     
-    C --> C1[Subg. Ventas]
-    C --> C2[Subg. Marketing]
+    GC --> SV[Subgerencia de Ventas]
+    GC --> SM[Subgerencia de Marketing]
     
-    D --> D1[Subg. Atención al Afiliado]
-    D --> D2[Subg. Autorizaciones]
+    GO --> SAA[Subgerencia de Atención al Afiliado]
+    GO --> SA[Subgerencia de Autorizaciones]
     
-    E --> E1[Subg. Contabilidad]
-    E --> E2[Subg. Cobranzas]
+    GF --> SC[Subgerencia de Contabilidad]
+    GF --> SCO[Subgerencia de Cobranzas]
+
+    style DG fill:#4285f4,stroke:#2255aa,color:white
+    style GM fill:#4285f4,stroke:#2255aa,color:white
+    style GC fill:#4285f4,stroke:#2255aa,color:white
+    style GO fill:#4285f4,stroke:#2255aa,color:white
+    style GF fill:#4285f4,stroke:#2255aa,color:white
+    style GRRHH fill:#4285f4,stroke:#2255aa,color:white
+    style GSI fill:#4285f4,stroke:#2255aa,color:white
+    
+    style SPM fill:#34a853,stroke:#227733,color:white
+    style SAM fill:#34a853,stroke:#227733,color:white
+    style SV fill:#34a853,stroke:#227733,color:white
+    style SM fill:#34a853,stroke:#227733,color:white
+    style SAA fill:#34a853,stroke:#227733,color:white
+    style SA fill:#34a853,stroke:#227733,color:white
+    style SC fill:#34a853,stroke:#227733,color:white
+    style SCO fill:#34a853,stroke:#227733,color:white
 ```
 
 Esta estructura organizacional refleja un modelo funcional donde la Gerencia de Sistemas de Información está posicionada al mismo nivel que las demás áreas clave, lo que facilita la integración de tecnología en los procesos de negocio y la comunicación horizontal entre departamentos. Este posicionamiento es fundamental para que el área de sistemas pueda contribuir significativamente a la estrategia organizacional y no limitarse a un rol meramente técnico o de soporte.
