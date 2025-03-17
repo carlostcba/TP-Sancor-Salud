@@ -9,6 +9,9 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 ## Estructura del Repositorio
 
 - **[Hito 1: Drivers de Negocio](./hito1-markdown.md)** - Análisis de la empresa, FODA y contexto organizacional
+- **[Hito 1](./hito1-rc.md)** - Actualización pendiente de aprobar
+
+
 - **[Hito 2: Rol de Sistemas de Información](./hito2-markdown.md)** - Análisis del área de Sistemas y su rol actual
 - **[Hito 3: Proyectos Estratégicos](./hito3-markdown.md)** - Descripción detallada de los tres proyectos propuestos
 - **[Presupuesto Detallado](./presupuesto-markdown.md)** - Desglose de CAPEX/OPEX para cada proyecto
