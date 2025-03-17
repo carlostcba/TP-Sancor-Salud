@@ -84,7 +84,7 @@ Ser la prepaga líder en innovación y calidad asistencial, reconocida por su en
 
 ## Análisis del Contexto Organizacional y Estratégico
 
-Sancor Salud opera en un contexto de **expansión**, donde la tecnología de información debe actuar como habilitador de crecimiento. Aplicando el modelo de fuerzas competitivas de Porter, ampliado por Laudon & Laudon, podemos identificar:
+Sancor Salud opera en un contexto de **expansión**, donde la tecnología de información debe actuar como habilitador estratégico de crecimiento. Aplicando un análisis de fuerzas competitivas al entorno del negocio, podemos identificar:
 
 ### 1. Competidores tradicionales
 
@@ -107,19 +107,21 @@ Servicios de salud a demanda, telemedicina independiente y plataformas de autoge
 - Facilitar la integración con prestadores tradicionales
 - Proporcionar ventajas que los sustitutos no puedan igualar
 
-### 4. Clientes
+### 4. Poder de negociación de clientes
 
 Los afiliados actuales y potenciales tienen expectativas digitales cada vez más altas. Los sistemas deben:
 - Proporcionar autogestión completa y experiencias omnicanal
 - Entregar valor personalizado basado en análisis de datos
 - Crear costos de cambio mediante la integración en su ecosistema de salud digital
 
-### 5. Proveedores
+### 5. Poder de negociación de proveedores
 
 La red de prestadores médicos y proveedores de servicios tiene un poder significativo. Los sistemas deben:
 - Facilitar la integración fluida con sus sistemas
 - Proporcionar valor añadido para fidelizarlos (información, pacientes, eficiencia)
 - Optimizar los procesos administrativos compartidos
+
+Este análisis de fuerzas competitivas demuestra que los sistemas de información no solo deben responder a las necesidades internas de la organización, sino también adaptarse estratégicamente al entorno competitivo para generar ventajas diferenciales sostenibles.
 
 ## Posicionamiento estratégico de las TI en Sancor Salud
 
