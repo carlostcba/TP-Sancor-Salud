@@ -15,7 +15,7 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 - **[Presupuesto Detallado](./presupuesto-markdown.md)** - Desglose de CAPEX/OPEX para cada proyecto
 - **[Cronograma de Implementación](./cronograma-markdown.md)** - Planificación temporal de los proyectos
   
-## Listado de Clases ASIG00120 - Gestión de Sistemas de Información subidas a Youtube
+## Listado de Clases ASIG00120 - Gestión de Sistemas de Información
 
 - **[17-03-2024: Clase 1](./docs/Clase_1_Gestion_de_Sistemas_de_Informacion.pdf)** - 
  
