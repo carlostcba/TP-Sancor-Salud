@@ -10,13 +10,16 @@ El trabajo presenta un análisis integral de la organización, el rol actual de 
 
 - **[Hito 1: Drivers de Negocio](./hito1-markdown.md)** - Análisis de la empresa, FODA y contexto organizacional
 - **[Hito 1](./hito1-rc.md)** - Actualización pendiente de aprobar
-
-
 - **[Hito 2: Rol de Sistemas de Información](./hito2-markdown.md)** - Análisis del área de Sistemas y su rol actual
 - **[Hito 3: Proyectos Estratégicos](./hito3-markdown.md)** - Descripción detallada de los tres proyectos propuestos
 - **[Presupuesto Detallado](./presupuesto-markdown.md)** - Desglose de CAPEX/OPEX para cada proyecto
 - **[Cronograma de Implementación](./cronograma-markdown.md)** - Planificación temporal de los proyectos
   
+## Listado de Clases ASIG00120 - Gestión de Sistemas de Información subidas a Youtube
+
+- **[17-03-2024: Clase 1](./docs/Clase_1_Gestion_de_Sistemas_de_Informacion.pdf)** - 
+ 
+
 ## Guiones para Presentaciones
 
 - **[Guion Hito 1](presentaciones/presentacion-hito1.md)** - Guión para video de Drivers de Negocio (2 minutos)
