@@ -47,17 +47,49 @@ El proyecto "Sistema de Atención Temprana" consta de tres componentes principal
      * Detección de arritmias
      * Alertas de pre-infarto
      * ECG básico on-demand
+
+🫀 Funciones Cardíacas (Ritmo, Arritmias, Pre-infarto, ECG)
+IA : Modelos supervisados de clasificación y detección de anomalías.
+
+Técnicas específicas:
+Random Forest, SVM, Redes Neuronales para detección de arritmias.
+Redes LSTM o CNN 1D para series temporales como el ECG.
+Autoencoders para identificar patrones inusuales (pre-infarto).
+Datos necesarios: señales de ECG, ritmo cardíaco continuo, historial del usuario.
+
+
+
    - **Funciones Mentales:**
      * Medición de variabilidad cardíaca (HRV)
      * Detección de sudoración excesiva
      * Análisis de microtemblores
      * Monitoreo de patrones de sueño
+
+🧠 Funciones Mentales (HRV, sudor, temblores, sueño)
+IA : Modelos híbridos de machine learning + análisis estadístico.
+
+Técnicas específicas:
+
+Análisis de HRV con herramientas como RMSSD y SDNN, combinadas con clustering (K-means, DBSCAN) para detección de estrés.
+Modelos basados en sensores para analizar sudoración y microtemblores: SVM o MLP (Multilayer Perceptron).
+Sleep staging con redes neuronales recurrentes (RNN) o CNN, si se usan datos de movimiento + HRV.
+
    - **Funciones Terapéuticas:**
      * Vibraciones rítmicas para asistir en respiración durante crisis
      * Estimulación térmica anti-congelamiento para ataques de pánico
      * Alertas hápticas para ejercicios de anclaje
      * Botón de SOS físico
    - Ventajas: económico y accesible, batería de hasta 7 días, especializado para monitoreo vital, funciones terapéuticas exclusivas
+
+🌿 Funciones Terapéuticas (Respiración, ataques de pánico, SOS)
+IA : Modelos de detección de eventos en tiempo real.
+
+Técnicas específicas:
+
+Modelos de detección de eventos secuenciales (LSTM, Transformer) para identificar patrones que preceden a un ataque de pánico.
+Modelos de clasificación por actividad para iniciar vibraciones rítmicas o alertas.
+Edge AI o modelos ligeros (como TinyML) para correr localmente en el dispositivo (baja latencia).
+
 
 2. **Aplicación y plataforma software:**
    - Módulo "Atención Temprana" integrado en la app principal de Sancor Salud
@@ -78,6 +110,10 @@ El proyecto "Sistema de Atención Temprana" consta de tres componentes principal
    - Protocolos de seguimiento post-crisis
    - Ampliación de cobertura (60% de reintegro vs. 30% actual)
    - Mayor cantidad de sesiones (42 anuales vs. 30 del PMO estándar)
+
+
+
+
 
 ### Valor Agregado para Prestadores y Sancor Salud
 
